@@ -1,3 +1,6 @@
+If the project is not visible on github, you can use this link:<br/>
+https://nbviewer.jupyter.org/github/RBarroco/quandl-project-webapi-big-mac/blob/master/API-Quandl-Project.ipynb
+
 API Quandl Project - The big mac price index
 
 <b> Objectives </b>
